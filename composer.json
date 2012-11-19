@@ -1,0 +1,20 @@
+{
+    "name": "michaelhue/li3_access",
+    "description": "Simple class-based access control for Lithium.",
+    "license": "MIT",
+    "keywords": ["lithium", "li3", "access", "acl"],
+    "require": {
+        "php": ">=5.4.0",
+        "composer/installers": "dev-master"
+    },
+    "suggest": {
+        "UnionOfRAD/lithium": "The Lithium framework."
+    },
+    "minimum-stability": "dev",
+    "authors": [
+        {
+            "name": "Michael Hüneburg",
+            "email": "hello@michaelhue.com"
+        }
+    ]
+}
